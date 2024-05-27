@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gauri agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauri agrawal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gauri agrawal" target="blank"><img align="center" src="https://www.google.com/imgres?q=animated%20software%20engineer%20coding%20gif&imgurl=https%3A%2F%2Faster.cloud%2Fwp-content%2Fuploads%2F2022%2F11%2Fcompiling-code.gif&imgrefurl=https%3A%2F%2Faster.cloud%2F2022%2F11%2F28%2Fwhat-you-need-to-know-about-compiling-code%2F&docid=ajeyYRPcoFhq0M&tbnid=35X6L1D39_KDvM&vet=12ahUKEwiKs_Tev62GAxUgyzgGHX33A6wQM3oFCIcBEAA..i&w=500&h=500&hcb=2&ved=2ahUKEwiKs_Tev62GAxUgyzgGHX33A6wQM3oFCIcBEAA" alt="gauri agrawal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
