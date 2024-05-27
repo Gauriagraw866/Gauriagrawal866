@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gauri Agrawal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfok2tNoJD1dAOV5kU3qjsiZHhhd6ib4O5Q&s">
+<img align="right"alt="coding"width="450"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfok2tNoJD1dAOV5kU3qjsiZHhhd6ib4O5Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauriagraw866&label=Profile%20views&color=0e75b6&style=flat" alt="gauriagraw866" /> </p>
 
